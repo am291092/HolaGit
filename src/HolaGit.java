@@ -8,7 +8,7 @@ public class HolaGit {
 		System.out.println("A ver si esto es verdad");
 		
 		if(2>1) {
-			System.out.println("Esto es una prueba");
+			System.out.println("Esto es una preba");
 		}
 		
 	}
