@@ -6,6 +6,11 @@ public class HolaGit {
 		System.out.println("Adios Git");
 		System.out.println("esto es una m");
 		System.out.println("A ver si esto es verdad");
+		
+		if(2>1) {
+			System.out.println("Esto es una prueba");
+		}
+		
 	}
 
 }
